@@ -1,0 +1,11 @@
+canvas {
+
+	display: block;
+
+	margin: 100px auto;
+}
+
+h1, h4, p {
+
+	text-align: center;
+}
